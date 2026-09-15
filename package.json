@@ -1,0 +1,28 @@
+{
+  "name": "instagram-downloader-transparency-kit",
+  "version": "1.0.0",
+  "description": "Audit data, a review checklist, and a local Instagram URL-shape classifier.",
+  "type": "module",
+  "bin": {
+    "classify-instagram-url": "bin/classify-instagram-url.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qlv990304-boop/instagram-downloader-transparency-kit.git"
+  },
+  "homepage": "https://github.com/qlv990304-boop/instagram-downloader-transparency-kit#readme",
+  "keywords": [
+    "instagram",
+    "url-validator",
+    "transparency",
+    "dataset",
+    "audit"
+  ],
+  "license": "MIT"
+}
