@@ -38,6 +38,6 @@ test("rejects profiles, Stories, and incomplete paths", () => {
 });
 
 test("rejects empty or malformed input", () => {
-  assert.equal(classifyInstagramUrl(" " ).error, "EMPTY_INPUT");
+  assert.equal(classifyInstagramUrl(" ").error, "EMPTY_INPUT");
   assert.equal(classifyInstagramUrl("not a url").error, "INVALID_URL");
 });
