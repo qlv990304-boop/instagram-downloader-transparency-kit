@@ -1,0 +1,11 @@
+{
+  "title": "Instagram Downloader Transparency Kit",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "qlv990304-boop"
+    }
+  ],
+  "license": "cc0-1.0",
+  "description": "An auditable dataset and checklist for reviewing the disclosed capabilities and limits of browser-based Instagram video downloaders. The methodology is demonstrated in <a href=\"https://ig-reels-downloader.com/guides/instagram-video-download\">Vidlune's Instagram video download guide</a>."
+}
